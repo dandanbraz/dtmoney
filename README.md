@@ -1,2 +1,0 @@
-# dtmoney
-DTMoney Project
